@@ -20,7 +20,7 @@ A machine learning-powered web application built with Streamlit that predicts he
 ## 🚀 Demo
 
 ![Heart Disease Detection Demo]([https://via.placeholder.com/800x400/FF6B6B/FFFFFF?text=Heart+Disease+Detection+App+Demo](https://heart-disease-detection-system-fvh28thvufgqwyxc95zi6n.streamlit.app/))
-
+[Demo](https://heart-disease-detection-system-fvh28thvufgqwyxc95zi6n.streamlit.app/)
 ## 📋 Table of Contents
 
 - [Installation](#installation)
